@@ -38,7 +38,7 @@ document.addEventListener("click", function (e) {
 });
 
 document.getElementById("app").innerHTML = `
-<div class="rouletter">
+<div class="rouletter" width="100%">
     <div class="rouletter-bg">
         <div class="rouletter-wacu"></div>
     </div>
