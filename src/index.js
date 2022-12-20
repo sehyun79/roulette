@@ -1,6 +1,6 @@
 import "./styles.css";
 
-var rolLength = 6;
+var rolLength = 3;
 
 const rRandom = () => {
   var min = Math.ceil(0);
