@@ -48,3 +48,10 @@
   font-size: 2.3em;
   font-weight: bold;
 }
+.command {
+  width: 100%;
+  height: 100%;
+  font-size: 5em;
+  font-weight: bold;
+  text-align: center;
+}
