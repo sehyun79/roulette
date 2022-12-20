@@ -35,8 +35,8 @@
   top: 0;
   left: 50%;
   transform: translateX(-50%);
-  width: 15px;
-  height: 15px;
+  width: 10px;
+  height: 10px;
   border-right: 10px solid transparent;
   border-left: 10px solid transparent;
   border-top: 40px solid red;
