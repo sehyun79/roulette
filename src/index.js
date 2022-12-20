@@ -49,7 +49,9 @@ document.getElementById("app").innerHTML = `
   <div class="command">
     <br><br>
       존경하는 와이프님 : <br>
+    <br>
       룰렛을 돌려주세요.<br>
+    <br>
       룰렛에 나온 상품을 드리겠습니다^~^<br>
     <br><br>
   </div>
