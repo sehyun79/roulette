@@ -1,15 +1,15 @@
 .rouletter {
   position: relative;
-  width: 800px;
-  height: 800px;
+  width: 1000px;
+  height: 1000px;
 }
 .rouletter-bg {
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  width: 750px;
-  height: 750px;
+  width: 950px;
+  height: 950px;
   border-radius: 350px;
   overflow: hidden;
 }
@@ -39,8 +39,8 @@
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  width: 80px;
-  height: 80px;
+  width: 180px;
+  height: 180px;
   border-radius: 80px;
   background: #fff;
   border-image: linear-gradient(to right, #fbfcb9be, #ffcdf3aa, #65d3ffaa);
