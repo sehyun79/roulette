@@ -54,7 +54,7 @@ document.getElementById("app").innerHTML = `
   </div>
   <div class="command">
     <br>
-      존경하는 와이프님 : <br>
+      존경하는 와이프님<br>
     <br>
       룰렛을 돌려주세요.<br>
     <br>
