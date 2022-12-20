@@ -47,6 +47,7 @@ document.getElementById("app").innerHTML = `
     <button class="rouletter-btn">돌리기</button>
   </div>
   <div class="command">
+    <br><br><br><br><br>
     aaa<br>
     bbb<br>
     ccc<br>
