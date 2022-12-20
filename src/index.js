@@ -38,12 +38,14 @@ document.addEventListener("click", function (e) {
 });
 
 document.getElementById("app").innerHTML = `
-<div class="rouletter" width="100%">
-    <div class="rouletter-bg">
-        <div class="rouletter-wacu"></div>
-    </div>
-    <div class="rouletter-arrow"></div>
-    <button class="rouletter-btn">돌리기</button>
+<div class="back">
+  <div class="rouletter" width="100%">
+      <div class="rouletter-bg">
+          <div class="rouletter-wacu"></div>
+      </div>
+      <div class="rouletter-arrow"></div>
+      <button class="rouletter-btn">돌리기</button>
+  </div>
+  <div class="command">ddd</div>
 </div>
-<div class="command">ddd</div>
 `;
