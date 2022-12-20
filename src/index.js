@@ -5,7 +5,7 @@ var rolLength = 4;
 const rRandom = () => {
   var min = Math.ceil(0);
   var max = Math.floor(rolLength - 1);
-  return 2;
+  return 1.5;
 };
 
 const rRotate = () => {
@@ -47,11 +47,11 @@ document.getElementById("app").innerHTML = `
     <button class="rouletter-btn">돌리기</button>
   </div>
   <div class="command">
-    <br><br><br><br><br>
-    aaa<br>
-    bbb<br>
-    ccc<br>
-    ddd<br>
+    <br><br>
+      aaa<br>
+      bbb<br>
+      ccc<br>
+    <br><br>
   </div>
 </div>
 `;
