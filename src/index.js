@@ -1,6 +1,6 @@
 import "./styles.css";
 
-var rolLength = 3;
+var rolLength = 4;
 
 const rRandom = () => {
   var min = Math.ceil(0);
@@ -43,6 +43,6 @@ document.getElementById("app").innerHTML = `
         <div class="rouletter-wacu"></div>
     </div>
     <div class="rouletter-arrow"></div>
-    <button class="rouletter-btn">start</button>
+    <button class="rouletter-btn">돌리기</button>
 </div>
 `;
