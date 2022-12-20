@@ -2,6 +2,11 @@
   position: relative;
   width: 965px;
   height: 965px;
+  background: #f5f5f2
+  url("./images/back.jpg")
+  no-repeat;
+  background-size: 100%;
+  transform-origin: center;
 }
 .rouletter-bg {
   position: absolute;
