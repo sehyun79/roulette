@@ -5,6 +5,8 @@ var rolLength = 4;
 const rRandom = () => {
   var min = Math.ceil(0);
   var max = Math.floor(rolLength - 1);
+  var status = document.querySelector(".status");
+  status.innerHTML = `실행 완료`
   return 1;
 };
 
@@ -46,14 +48,18 @@ document.getElementById("app").innerHTML = `
     <div class="rouletter-arrow"></div>
     <button class="rouletter-btn">돌리기</button>
   </div>
+    <div class="status">
+        실행 전
+    <br>
+  </div>
   <div class="command">
-    <br><br>
+    <br>
       존경하는 와이프님 : <br>
     <br>
       룰렛을 돌려주세요.<br>
     <br>
       룰렛에 나온 상품을 드리겠습니다^~^<br>
-    <br><br>
+    <br>
   </div>
 </div>
 `;
