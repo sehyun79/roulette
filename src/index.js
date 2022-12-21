@@ -60,6 +60,7 @@ document.getElementById("app").innerHTML = `
     <br>
       룰렛에 나온 상품을 드리겠습니다^~^<br>
     <br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>
+    <br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>
   </div>
 </div>
 `;
