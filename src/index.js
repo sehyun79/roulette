@@ -5,8 +5,6 @@ var rolLength = 4;
 const rRandom = () => {
   var min = Math.ceil(0);
   var max = Math.floor(rolLength - 1);
-  var status = document.querySelector(".status");
-  status.innerHTML = `실행 완료`
   return 1;
 };
 
@@ -47,10 +45,6 @@ document.getElementById("app").innerHTML = `
     </div>
     <div class="rouletter-arrow"></div>
     <button class="rouletter-btn">돌리기</button>
-  </div>
-    <div class="status">
-        실행 전
-    <br>
   </div>
   <div class="command">
     <br>
