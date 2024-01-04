@@ -5,7 +5,7 @@ var rolLength = 4;
 const rRandom = () => {
   var min = Math.ceil(0);
   var max = Math.floor(rolLength - 1);
-  return 3;
+  return 2;
 };
 
 const rRotate = () => {
